@@ -143,7 +143,7 @@ class _AcademicPressureScreenState extends State<AcademicPressureScreen> {
   late final FlutterTts _tts = FlutterTts();
   late final GenerativeModel _gemini = GenerativeModel(
     model: 'gemini-2.0-flash',
-    apiKey: ('AIzaSyC2cYiJxz7Ro5bqJtq0TgEJtSnk5_UNY7A'),
+    apiKey: ('GEMINI_KEY'),
   );
 
   bool _isListening = false;
