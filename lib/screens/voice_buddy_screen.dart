@@ -17,7 +17,7 @@ const _text = Colors.white;
 const _mutedText = Color(0xFFE5E7EB);
 const _muted = Color(0xFF0F0B23);
 
-const String kGeminiApiKey = ('AIzaSyC2cYiJxz7Ro5bqJtq0TgEJtSnk5_UNY7A');
+const String kGeminiApiKey = ('GEMINI_KEY');
 
 class VoiceBuddyScreen extends StatefulWidget {
   const VoiceBuddyScreen({super.key});
