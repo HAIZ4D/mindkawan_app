@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:google_generative_ai/google_generative_ai.dart';
 import '../models/mood_entry.dart';
 
-const String _apiKey = ('AIzaSyC2cYiJxz7Ro5bqJtq0TgEJtSnk5_UNY7A');
+const String _apiKey = ('GEMINI_KEY');
 
 class GeminiNLP {
   final GenerativeModel _model =
