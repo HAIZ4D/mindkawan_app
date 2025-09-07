@@ -12,7 +12,7 @@ MindKawan: One App for All Minds
 
 Software Track: Student LifeStyle (Mental Health Support For Student - Mobile Application)
 
-Problem Statement: 
+Problem StatementS: 
 1. Difficulty in expressing emotions; which is only 20% of Malaysian students experiencing mental health issues seek professional care. (Sinardaily,2023)
 2. Lack of accessible tools for mental health; which is 10-35% of Malaysians in need of mental health support remain undeserved. (Health Ministry, 2020)
 3. High stress from academic workload; which is 60.5% of students experienced anxiety, stress and depression due to academic pressures. (University Putra Malaysia, 2021)
