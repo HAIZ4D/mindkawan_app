@@ -1,5 +1,7 @@
 # mindkawanv2_app
 
+-- CODENECTION HACKATHON 2025 --
+
 Sigma Coder members:
 1. Muhammad Haizad (Team Leader)
 2. Hafiy Azfar
@@ -8,7 +10,7 @@ Sigma Coder members:
    
 MindKawan: One App for All Minds
 
-Track: Student LifeStyle (Mental Health Support For Student - Mobile Application)
+Software Track: Student LifeStyle (Mental Health Support For Student - Mobile Application)
 
 Problem Statement: 
 1. Difficulty in expressing emotions; which is only 20% of Malaysian students experiencing mental health issues seek professional care. (Sinardaily,2023)
@@ -16,4 +18,4 @@ Problem Statement:
 3. High stress from academic workload; which is 60.5% of students experienced anxiety, stress and depression due to academic pressures. (University Putra Malaysia, 2021)
 4. Insufficient disability-focused support; which is Only 8% of registered persons with disabilities in Malaysia receive mental health support. (Department of Social Welfare, 2024) 
 
-Youtube Link: https://youtu.be/YI-wTAOR3UU 
+Presentation Video Youtube Link: https://youtu.be/YI-wTAOR3UU 
